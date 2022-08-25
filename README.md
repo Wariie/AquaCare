@@ -21,4 +21,4 @@ Do you care for your aquarium ? This project is for you !
 * AquariumDetailPage algorithm compatibility fishes x plants x measures
 * AquariumDetailPage - hints & alerts
 * Tips & Tricks
-* 
+* "# AquaCare" 
